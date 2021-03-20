@@ -22,3 +22,7 @@ Installation :
 usage :  
 * $ python2 theHarvester.py  
 * $ python2 theHarvester.py -d site.com -b google
+
+
+![theharvester-featured-image](https://user-images.githubusercontent.com/75029023/111862460-6bb12700-8990-11eb-83d6-fc7696c22e38.png)
+
