@@ -1,4 +1,4 @@
-### 𝐇𝐀𝐑𝐕𝐄𝐒𝐓𝐄𝐑-𝐄𝐌𝐀𝐈𝐋-𝐈𝐍𝐅𝐎😄🥰
+### ༒︎᯾𝐇𝐀𝐑𝐕𝐄𝐒𝐓𝐄𝐑-𝐄𝐌𝐀𝐈𝐋-𝐈𝐍𝐅𝐎᯾༒︎
 
 > E-mails, subdomains and names Harvester  theHarvester is a tool for gathering subdomain names,  
 
@@ -8,7 +8,7 @@
 
 > (search engines, pgp key servers).  
 
-### 𝙸𝙽𝚂𝚃𝙰𝙻𝙻𝙰𝚃𝙸𝙾𝙽 : 👇🏻👇🏻👇🏻 
+### ✰𝙸𝙽𝚂𝚃𝙰𝙻𝙻𝙰𝚃𝙸𝙾𝙽✰ : 
 ```
 $ apt update && apt upgrade  
 ```
@@ -30,7 +30,7 @@ $ cd theHarvester
 ```
 $ chmod +x *  
 ```
-### 𝚄𝚜𝚊𝚐𝚎 : 👇🏻👇🏻👇🏻
+### ✰𝚄𝚜𝚊𝚐𝚎✰ : 
 ```
 $ python2 theHarvester.py  
 ```
