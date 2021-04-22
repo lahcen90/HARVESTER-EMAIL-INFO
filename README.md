@@ -1,5 +1,4 @@
-# ༒︎᯾𝐇𝐀𝐑𝐕𝐄𝐒𝐓𝐄𝐑-𝐄𝐌𝐀𝐈𝐋-𝐈𝐍𝐅𝐎᯾༒︎ #
-=================================
+### ༒︎᯾𝐇𝐀𝐑𝐕𝐄𝐒𝐓𝐄𝐑-𝐄𝐌𝐀𝐈𝐋-𝐈𝐍𝐅𝐎᯾༒︎ 
 
 > E-mails, subdomains and names Harvester  theHarvester is a tool for gathering subdomain names,  
 
@@ -50,3 +49,5 @@ $ python2 theHarvester.py -d site.com -b google
   <a href="https://github.com/Zack-sys" target="_blank"><img src="https://img.shields.io/badge/Github-Zack--sys-green?style=for-the-badge&logo=github"></a>
   <a href="https://www.instagram.com/Azealtech" target="_blank"><img src="https://img.shields.io/badge/IG-%40Azealtech-red?style=for-the-badge&logo=instagram"></a>
   
+[lowlatency]: https://github.com/Genymobile/scrcpy/pull/646
+
