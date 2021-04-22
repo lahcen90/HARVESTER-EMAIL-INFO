@@ -2,11 +2,11 @@
 
 > E-mails, subdomains and names Harvester  theHarvester is a tool for gathering subdomain names,  
 
-> e-mail addresses, virtual hosts, open ports/ banners,   
+>> e-mail addresses, virtual hosts, open ports/ banners,   
 
-> and employee names from different public sources  
+>>> and employee names from different public sources  
 
-> (search engines, pgp key servers).  
+>>>> (search engines, pgp key servers).  
 
 ### ✰𝙸𝙽𝚂𝚃𝙰𝙻𝙻𝙰𝚃𝙸𝙾𝙽✰ : 
 ```
